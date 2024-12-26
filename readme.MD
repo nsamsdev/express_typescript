@@ -1,0 +1,1 @@
+* Simple express js api with user sign up, activation and account deletion
